@@ -4,6 +4,9 @@
 In this Website, you can order your favorite pizzas from our menu and add it to your shopping cart, then you can place your order.
 #### Also you can use this website on smaller screens such as Tablet and Mobile, because its **Fully Responsive** 😊
 
+## Website Page
+![](public/fastReactPizza.gif)
+
 ## Getting Started
 to start the project, run the following commands in your terminal :
 ```
